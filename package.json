@@ -1,0 +1,17 @@
+{
+  "name": "ct-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fun Planet / Dipam Sen",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "octokit": "^2.0.3",
+    "yaml-front-matter": "^4.1.1"
+  }
+}
